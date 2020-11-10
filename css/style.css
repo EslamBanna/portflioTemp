@@ -1,0 +1,189 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    -webkit-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+     box-sizing:border-box;
+    font-family: "Times New Roman", Times, serif;
+}
+.immm{
+    background-image:url('../images/91.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 715px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+.solo{
+background-color: aliceblue;
+    width: 550px;
+}
+.per{
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: aliceblue;
+    font-weight: bold;
+}
+.part1{
+    color: #16664f;
+    margin-bottom: 50px;
+}
+p.parag{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+ color: #7F8C8E;
+}
+.slide1{
+    margin-bottom: 50px;
+}
+.al{
+    background-color: #F2F2F2;
+        color: #16664f;
+}
+.al p{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+color: #7F8C8E;
+}
+.meth{
+    margin-top: 50px;
+}
+.resu1,.meth p{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #7F8C8E;
+    margin-top: 15px;
+}
+.m1{
+   text-align: center;
+   background-color: #F2F2F2;
+padding-top: 20px;
+    padding-bottom: 20px;
+}
+.resume{
+    color:#16664f
+}
+.partx p,.resu1{
+    color:#7F8C8E;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.br1,.br2,.br3{
+ border: 1px solid #ccc;   
+}
+.bo1,.bo3,.bo4{
+    background-color:#16664f;
+    border: 1px solid #16664f;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.bo2{
+background-color: #ccc;
+color:#16664f;
+border:1px solid #16664f;
+padding: 5px;
+cursor: pointer;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.carousel{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.carousel-inner{
+    background-image: url(../images/63.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.carousel h2{
+    color: aliceblue;
+}
+.carousel img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+border: 2px solid #16664f;
+}
+.bo6{
+background-color:#16664f;
+    border: 1px solid #16664f;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.kkk{
+   text-align: center;
+   }
+.port2{
+  color:#7F8C8E;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.matrix img{
+height: 250px;
+    margin-bottom: 30px;
+    transition: all 0.5s ease-in-out;
+}
+.matrix img:hover{
+    cursor: pointer;
+    transform: scale(1.1,1.1);
+    opacity: 0.5;
+}
+.kh{
+    background-color: #252E2E;
+}
+.partx{
+    margin-top: 30px;
+   color: white;
+}  
+.xe{
+    color:white;
+    font-size:18px;
+}
+input[type="text"]
+{
+    margin-top: 10px;
+    display: block;
+    background-color: #4B5555;
+    border: 1px solid #252E2E;
+    height: 25px;
+    width: 400px;
+}
+input[type="submit"]{
+    margin-top: 15px;
+    background-color: #222224;
+    color:white;
+    border: 1px solid #222224;
+    height: 40px;
+    padding: 10px;
+     font-family: "Trebuchet MS", Helvetica, sans-serif;
+     display: block;
+    cursor:pointer;
+    margin-bottom: 20px;
+    }
+    textarea{
+    width:400px;
+    height:200px;
+    background-color: #4B5555;
+    resize: none;
+     border: 1px solid #252E2E;
+    }
+    .cpy{
+        background-color: #14191A;
+        color:white;
+        font-size:16px;
+        text-align: center;
+    }
+    .if{
+        background-color: white;
+        border-radius: 60px;
+        width:30px;
+        margin-top: 10px;
+        margin-left: 5px;
+       cursor: pointer;
+    }
+.slide1 img{
+    
+}
